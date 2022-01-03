@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpeechToText</string>
+    <string name="convertButton">Convert</string>
+    <string name="appearText">Text will appear here</string>
+</resources>
